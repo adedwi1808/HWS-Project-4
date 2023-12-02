@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AD5A39552B1B2A1D0018BD6B /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5A39542B1B2A1D0018BD6B /* HomeTableViewController.swift */; };
 		ADBA36052B1ADCED00E09C8D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBA36042B1ADCED00E09C8D /* AppDelegate.swift */; };
 		ADBA36072B1ADCED00E09C8D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBA36062B1ADCED00E09C8D /* SceneDelegate.swift */; };
 		ADBA36092B1ADCED00E09C8D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBA36082B1ADCED00E09C8D /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AD5A39542B1B2A1D0018BD6B /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
 		ADBA36012B1ADCED00E09C8D /* HWS-Project-4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HWS-Project-4.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADBA36042B1ADCED00E09C8D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ADBA36062B1ADCED00E09C8D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				ADBA360D2B1ADCEF00E09C8D /* Assets.xcassets */,
 				ADBA360F2B1ADCEF00E09C8D /* LaunchScreen.storyboard */,
 				ADBA36122B1ADCEF00E09C8D /* Info.plist */,
+				AD5A39542B1B2A1D0018BD6B /* HomeTableViewController.swift */,
 			);
 			path = "HWS-Project-4";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD5A39552B1B2A1D0018BD6B /* HomeTableViewController.swift in Sources */,
 				ADBA36092B1ADCED00E09C8D /* ViewController.swift in Sources */,
 				ADBA36052B1ADCED00E09C8D /* AppDelegate.swift in Sources */,
 				ADBA36072B1ADCED00E09C8D /* SceneDelegate.swift in Sources */,
